@@ -1,0 +1,6 @@
+!!!Welcome to Weather Application!!!
+Steps to use:
+1.First of all select which city do you want search
+2.Search particular city in search bar
+3.Click on Search button
+4.Final.
