@@ -9,4 +9,5 @@ Along with that it gives you following things:
 
 ## Rapid API is used to fetch the weather details
 ## Here is link to know weather in your city:
+### Just place your city name in search box and you are good to go:
 https://hp200421.github.io/Weather_Application/
